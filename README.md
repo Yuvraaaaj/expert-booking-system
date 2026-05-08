@@ -102,3 +102,14 @@ Booking systems often suffer from race conditions when two users attempt to book
    npm run dev
    ```
    The frontend will be available at `http://localhost:5173`.
+
+---
+
+## 📸 Demo & Walkthrough
+
+### System Walkthrough
+You can find a detailed walkthrough of the implementation and features in the [walkthrough.md](./artifacts/walkthrough.md) file.
+
+### Video Demonstration
+A full end-to-end testing recording of the booking flow, real-time updates, and responsive design can be viewed here:
+![Expert Booking Demo](file:///C:/Users/DELL/.gemini/antigravity/brain/71b37f42-f95a-44d8-b254-3a5b01b8a9b6/end_to_end_test_retry_1778272061515.webp)
