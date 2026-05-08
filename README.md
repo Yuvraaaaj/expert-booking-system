@@ -105,11 +105,20 @@ Booking systems often suffer from race conditions when two users attempt to book
 
 ---
 
-## 📸 Demo & Walkthrough
+## 📸 Snapshots
 
-### System Walkthrough
-You can find a detailed walkthrough of the implementation and features in the [walkthrough.md](./artifacts/walkthrough.md) file.
+### 1. Expert Discovery
+Browse experts by category or search by name/skill.
+![Expert List](./docs/snapshots/expert_list.png)
 
-### Video Demonstration
-A full end-to-end testing recording of the booking flow, real-time updates, and responsive design can be viewed here:
-![Expert Booking Demo](file:///C:/Users/DELL/.gemini/antigravity/brain/71b37f42-f95a-44d8-b254-3a5b01b8a9b6/end_to_end_test_retry_1778272061515.webp)
+### 2. Expert Profile & Availability
+View detailed bios and real-time available slots.
+![Expert Detail](./docs/snapshots/expert_detail.png)
+
+### 3. Secure Booking
+Instant booking with validation and conflict prevention.
+![Booking Page](./docs/snapshots/booking_page.png)
+
+### 4. My Bookings
+Manage your schedule and cancel sessions easily.
+![My Bookings](./docs/snapshots/my_bookings.png)
